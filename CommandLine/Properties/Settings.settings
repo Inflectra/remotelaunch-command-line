@@ -1,0 +1,27 @@
+﻿<?xml version='1.0' encoding='utf-8'?>
+<SettingsFile xmlns="http://schemas.microsoft.com/VisualStudio/2004/01/settings" CurrentProfile="(Default)" GeneratedClassNamespace="Inflectra.RemoteLaunch.Engines.CommandLine.Properties" GeneratedClassName="Settings">
+  <Profiles />
+  <Settings>
+    <Setting Name="LogResults" Type="System.Boolean" Scope="User">
+      <Value Profile="(Default)">True</Value>
+    </Setting>
+    <Setting Name="RunAsAdmin" Type="System.Boolean" Scope="User">
+      <Value Profile="(Default)">False</Value>
+    </Setting>
+    <Setting Name="PassRegex" Type="System.String" Scope="User">
+      <Value Profile="(Default)">Pass</Value>
+    </Setting>
+    <Setting Name="FailRegex" Type="System.String" Scope="User">
+      <Value Profile="(Default)">Error|Fail|Fatal</Value>
+    </Setting>
+    <Setting Name="CautionRegex" Type="System.String" Scope="User">
+      <Value Profile="(Default)">Warning|Caution</Value>
+    </Setting>
+    <Setting Name="BlockedRegex" Type="System.String" Scope="User">
+      <Value Profile="(Default)">Blocked</Value>
+    </Setting>
+    <Setting Name="DefaultStatus" Type="System.Int32" Scope="User">
+      <Value Profile="(Default)">2</Value>
+    </Setting>
+  </Settings>
+</SettingsFile>
